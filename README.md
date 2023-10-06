@@ -1,2 +1,2 @@
 # Evidencia1y2
-Evidencia 1 Computación en Java
+Evidencia 1 y 2 Computación en Java
